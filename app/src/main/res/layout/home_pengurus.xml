@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
+ <?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content">
+    android:layout_height="match_parent">
 
     <LinearLayout
         android:layout_width="wrap_content"
@@ -64,7 +64,7 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:src="@drawable/scan"
+        android:src="@drawable/icon_absen"
         tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="656dp" />
@@ -88,7 +88,7 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:src="@drawable/mirza"
+        android:src="@drawable/pengurus"
         tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="84dp" />
@@ -166,7 +166,7 @@
     <TextView
         android:layout_width="231dp"
         android:layout_height="15dp"
-        android:text="M. Mirza Azizin Nauval"
+        android:text="M Kholil Amin"
         android:textColor="#000202"
         android:textSize="12dp"
         tools:ignore="MissingConstraints"
@@ -176,7 +176,7 @@
     <TextView
         android:layout_width="231dp"
         android:layout_height="15dp"
-        android:text="18170063"
+        android:text="18170073"
         android:textColor="#000202"
         android:textSize="12dp"
         tools:ignore="MissingConstraints"
@@ -203,6 +203,4 @@
         tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="81dp"
         tools:layout_editor_absoluteY="486dp" />
-
-
 </androidx.constraintlayout.widget.ConstraintLayout>

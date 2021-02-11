@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar16"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#4EBD23"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="56dp" />
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar17"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#F3F3F3"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar18"
+        android:layout_width="100dp"
+        android:layout_height="5dp"
+        android:background="#F3F3F3"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="91dp" />
+
+    <ImageView
+        android:layout_width="51dp"
+        android:layout_height="28dp"
+        android:src="@drawable/arrow"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="16dp"/>
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="History Prensence"
+        android:textColor="#000202"
+        android:textSize="16dp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="153dp"
+        tools:layout_editor_absoluteY="18dp" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kelas Bahasa"
+        android:textColor="#ffff"
+        android:textSize="12dp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="34dp"
+        tools:layout_editor_absoluteY="68dp" />
+
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ngaji"
+        android:textColor="#ffff"
+        android:textSize="12dp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="209dp"
+        tools:layout_editor_absoluteY="68dp" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sholat"
+        android:textColor="#ffff"
+        android:textSize="12dp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="340dp"
+        tools:layout_editor_absoluteY="68dp" />
+
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar19"
+        android:layout_width="325dp"
+        android:layout_height="135dp"
+        android:background="#F3F3F3"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="43dp"
+        tools:layout_editor_absoluteY="128dp" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kelas Bahasa"
+        android:textColor="#000202"
+        android:textSize="12dp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="67dp"
+        tools:layout_editor_absoluteY="139dp" />
+
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar20"
+        android:layout_width="280dp"
+        android:layout_height="1dp"
+        android:background="#4EBD23"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="65dp"
+        tools:layout_editor_absoluteY="165dp" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

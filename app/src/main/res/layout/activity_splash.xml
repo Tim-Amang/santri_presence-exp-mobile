@@ -12,6 +12,7 @@
         android:layout_height="174dp"
         app:srcCompat="@drawable/santi_presence_vertical"
         tools:layout_editor_absoluteX="141dp"
-        tools:layout_editor_absoluteY="278dp" />
+        tools:layout_editor_absoluteY="251dp"
+        tools:ignore="MissingConstraints" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
